@@ -1,0 +1,9 @@
+class Example
+{
+static void main(String[] args)
+{
+int a=2, b=4;
+int c=a+b;
+println("c value is " +c)
+}
+} 
